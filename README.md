@@ -10,11 +10,11 @@ UnityOpener.exe --root "C:\Program Files\Unity" --depth 1
 The tool was modelled after Unity Hub and assumes all Unity versions are installed in a single folder and follow a common naming strategy, i.e.
 ```
 C:
-∟-Program Files
-  ∟-Unity
-    ∟-2017.3.1p1
-    ∟-2017.4.15f
-    ∟-2018.2.10f1
+└-Program Files
+  └-Unity
+    └-2017.3.1p1
+    └-2017.4.15f
+    └-2018.2.10f1
 ```
 The root folder and name format can be specified although the contained version always has to follow Unity's default versioning for now.
 
