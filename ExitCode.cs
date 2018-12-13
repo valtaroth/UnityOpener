@@ -1,4 +1,4 @@
-namespace UnitySelector
+namespace UnityOpener
 {
     public enum ExitCode
     {

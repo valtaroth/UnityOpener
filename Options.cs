@@ -1,6 +1,6 @@
 using CommandLine;
 
-namespace UnitySelector
+namespace UnityOpener
 {
     public class Options
     {

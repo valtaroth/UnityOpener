@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 
-namespace UnitySelector
+namespace UnityOpener
 {
     public class Controller
     {

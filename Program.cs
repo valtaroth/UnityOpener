@@ -1,7 +1,7 @@
 ﻿using System;
 using CommandLine;
 
-namespace UnitySelector
+namespace UnityOpener
 {
     internal class Program
     {
